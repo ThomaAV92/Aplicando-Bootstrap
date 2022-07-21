@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-image: url(../img/galaxia.jpg);
+}
+
+.bg-black {
+    background-color: rgb(61, 0, 97)
+}
+
+#botonera img {
+    width: 150px;
+}
+
+#list a {
+    color: white;
+    font-size: 1.5rem;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    margin: 2rem 0;
+    color: white;
+}
+
+p {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 3rem;
+    margin: auto;
+    color: white;
+}
+
+#container-image {
+    transform: translateY(3rem);
+}
+
+footer {
+    background-color: rgb(61, 0, 97);
+    display: flex;
+    justify-content: end;
+}
+
+.pie-icon {
+    width: 50px;
+    margin: 0 10px;
+}
+
+.card-title {
+    color: black;
+    font-size: 3rem;
+}
+
+.card-text {
+    color: black;
+    font-size: 1.5rem;
+}
+
+.container-main {
+    margin: 1rem;
+}
+
+#card {
+    padding: 1rem;
+}
